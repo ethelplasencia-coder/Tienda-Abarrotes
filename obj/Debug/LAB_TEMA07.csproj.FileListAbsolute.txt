@@ -1,0 +1,7 @@
+C:\Users\ethel\Downloads\LAB_TEMA07\bin\Debug\LAB_TEMA07.exe.config
+C:\Users\ethel\Downloads\LAB_TEMA07\bin\Debug\LAB_TEMA07.exe
+C:\Users\ethel\Downloads\LAB_TEMA07\bin\Debug\LAB_TEMA07.pdb
+C:\Users\ethel\Downloads\LAB_TEMA07\obj\Debug\LAB_TEMA07.csproj.AssemblyReference.cache
+C:\Users\ethel\Downloads\LAB_TEMA07\obj\Debug\LAB_TEMA07.csproj.CoreCompileInputs.cache
+C:\Users\ethel\Downloads\LAB_TEMA07\obj\Debug\LAB_TEMA07.exe
+C:\Users\ethel\Downloads\LAB_TEMA07\obj\Debug\LAB_TEMA07.pdb
