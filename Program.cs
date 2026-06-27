@@ -18,7 +18,7 @@ namespace LAB_TEMA07
         // ============================================
         static void MostrarMenu()
         {
-            Console.WriteLine("\n===== SISTEMA TIENDA DE ABARROTES =====");
+            Console.WriteLine("\n=====TIENDA DE ABARROTES =====");
             Console.WriteLine("1. Registrar producto");
             Console.WriteLine("2. Mostrar inventario");
             Console.WriteLine("3. Realizar venta");
